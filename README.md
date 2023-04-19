@@ -1,6 +1,6 @@
 ![MasterHead](https://marketplace.canva.com/EAENvk2CS4M/1/0/1600w/canva-simple-technology-linkedin-banner-iHvm-YmdTcQ.jpg)
 <h1 align="center">Hello world👋</h1>
-<h3 align="center">I'm currently learning a lot of stuffs at once.</h3>
+<h3 align="center">I'm currently learning a lot of things at once.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=potytofries&label=Profile%20views&color=0e64b4&style=flat" alt="potytofries" /> </p>
 
