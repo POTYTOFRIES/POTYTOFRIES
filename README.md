@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=potytofries&label=Profile%20views&color=0e64b4&style=flat" alt="potytofries" /> </p>
 
-- 🔭 I’m currently working on **Kahit ano? Webapp**
-
 - 🌱 I’m currently learning **Fullstack Web Development**
 
 - 🧟‍♀️ Zombiefied
